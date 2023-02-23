@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33015.44
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInjectionIntro", "DependencyInjectionIntro\DependencyInjectionIntro.csproj", "{1B6E5F37-A84C-4E8C-B94C-8AF0A5EE2A33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NinjectDIIntro", "NinjectDIIntro\NinjectDIIntro.csproj", "{967FF9D6-6920-47C9-BE01-A6960E2A2286}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B6E5F37-A84C-4E8C-B94C-8AF0A5EE2A33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B6E5F37-A84C-4E8C-B94C-8AF0A5EE2A33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B6E5F37-A84C-4E8C-B94C-8AF0A5EE2A33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B6E5F37-A84C-4E8C-B94C-8AF0A5EE2A33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{967FF9D6-6920-47C9-BE01-A6960E2A2286}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{967FF9D6-6920-47C9-BE01-A6960E2A2286}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{967FF9D6-6920-47C9-BE01-A6960E2A2286}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{967FF9D6-6920-47C9-BE01-A6960E2A2286}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {755CE280-B8D5-4698-934F-C1F1EE069DDA}
+	EndGlobalSection
+EndGlobal
